@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/luokangyu/workspace/libgdxProjects/android/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/luokangyu/workspace/libgdxProjects/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/luokangyu/workspace/libgdxProjects/libgdx20161027/android/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/luokangyu/workspace/libgdxProjects/libgdx20161027/android/res/drawable-hdpi/ic_launcher.png"
+    }
+]
